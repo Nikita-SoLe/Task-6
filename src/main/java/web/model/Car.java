@@ -1,8 +1,5 @@
 package web.model;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class Car {
     private String brand;
     private String color;
